@@ -1,3 +1,3 @@
-# Maps Scraper Pro Release Manifest
+# Maps Scraper Pro
 
-This repository hosts the auto-update manifest and releases.
+Public release repository and package container registry for Maps Scraper Pro.
