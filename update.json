@@ -1,23 +1,23 @@
 {
-  "version": "1.6.6-13",
-  "notes": "Release v1.6.6-13",
-  "pub_date": "2026-11-14T19:19:49.841Z",
+  "version": "1.6.6-14",
+  "notes": "Release v1.6.6-14",
+  "pub_date": "2026-11-15T12:34:20.593Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRXMW8vVGZ3aEk5ODk4RkFXQ0VlYUNmWW1vRUE1b1IxeGhMR1JCY1VjSGRPb1l6NjgvNXkxQktnaE9GVFNHc01tNThSWWhZaVB5WWUwZkJjMmxGNUNCKzhnck1jM0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjgzNjc2CWZpbGU6TWFwcyBTY3JhcGVyIFByb18xLjYuNi0xM194NjQtc2V0dXAuZXhlCjlDTkZLK1lhMThFMnltSmY3UjRtekhyZjZ0MkUvQTBCSE5VQUx5OHBxRG80cDZKeGhoT1Z3LzFjaFM0dXFNb29VbXIxUG5UVzFsdUZXZnNCSUFMMEJBPT0K",
-      "url": "https://github.com/data-sniper-llc/maps-scraper-pro/releases/download/v1.6.6-13/Maps.Scraper.Pro_1.6.6-13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRXMW8vVGZ3aE5pZ2tVV0FRblhGRTBranJ3MkJUSzNpdzl2NFZpdVdGSWdudW44MjhlaW9LNFZGSzlsaXRWTW4rQmluSElTL1JJT015VHVjZE1CQ0VvTVFwbUdmdlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ1NzEyCWZpbGU6TWFwcyBTY3JhcGVyIFByb18xLjYuNi0xNF94NjQtc2V0dXAuZXhlCkVVYUtlT0RvbHBTMEVYWktVMVRqcDl6MGJ5bi90NDRqc0g3TS9rMFhIeStNbWk5NTQ4aDBjV0xwVFpGZVc3RDJHYWowU1dXaktOVmRBQzlHelhNVkNRPT0K",
+      "url": "https://github.com/data-sniper-llc/maps-scraper-pro/releases/download/v1.6.6-14/Maps.Scraper.Pro_1.6.6-14_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRXMW8vVGZ3aEJOV0lQWVR1YTJiWVoveFBxK3B2cWhtV1NlSlR2Y2Zud21qNWZraEMyMGlqNUdZNEVlSHhjdkRYMTlUNnI3aDRCV2VyRGhYbGpBL3FsZ2hsajlRZFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjgzMjkwCWZpbGU6TWFwcyBTY3JhcGVyIFByby5hcHAudGFyLmd6ClJueUZwVzdNTGhFNkhvemx2S0lTNFc3UkovTVdSZU1EK3BRUm9ObytURHB1a29SWFdhMUNoL1JqSGw2MUR2TlVuN0JRU2p2Q3ArZzFwNHNVSGY3dEJnPT0K",
-      "url": "https://github.com/data-sniper-llc/maps-scraper-pro/releases/download/v1.6.6-13/Maps.Scraper.Pro.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRXMW8vVGZ3aEhVQ0l6ckV0eXJGVzZlVGZzUnprN0VMbklUN1BGek8zNVRhcnJUck5RVE9JYnU3TjRVbGQ1Skpwb0l4Vkx6SUVtYkhUZDhsNGlLNTJoa3dLek03R1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ1NDc4CWZpbGU6TWFwcyBTY3JhcGVyIFByby5hcHAudGFyLmd6CnhDS3V4L096Ymk2ZHhtaGgydzdHVmVjQ2gwL1EyWWdFSFh4dnVwV05tdGNvaEVCNi9WQWQ3VEJReDJpS2x1N1ZITUxZQXRCTkxmQllSUGdCUTBXQ0RnPT0K",
+      "url": "https://github.com/data-sniper-llc/maps-scraper-pro/releases/download/v1.6.6-14/Maps.Scraper.Pro.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRXMW8vVGZ3aEJOV0lQWVR1YTJiWVoveFBxK3B2cWhtV1NlSlR2Y2Zud21qNWZraEMyMGlqNUdZNEVlSHhjdkRYMTlUNnI3aDRCV2VyRGhYbGpBL3FsZ2hsajlRZFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjgzMjkwCWZpbGU6TWFwcyBTY3JhcGVyIFByby5hcHAudGFyLmd6ClJueUZwVzdNTGhFNkhvemx2S0lTNFc3UkovTVdSZU1EK3BRUm9ObytURHB1a29SWFdhMUNoL1JqSGw2MUR2TlVuN0JRU2p2Q3ArZzFwNHNVSGY3dEJnPT0K",
-      "url": "https://github.com/data-sniper-llc/maps-scraper-pro/releases/download/v1.6.6-13/Maps.Scraper.Pro.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRXMW8vVGZ3aEhVQ0l6ckV0eXJGVzZlVGZzUnprN0VMbklUN1BGek8zNVRhcnJUck5RVE9JYnU3TjRVbGQ1Skpwb0l4Vkx6SUVtYkhUZDhsNGlLNTJoa3dLek03R1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ1NDc4CWZpbGU6TWFwcyBTY3JhcGVyIFByby5hcHAudGFyLmd6CnhDS3V4L096Ymk2ZHhtaGgydzdHVmVjQ2gwL1EyWWdFSFh4dnVwV05tdGNvaEVCNi9WQWQ3VEJReDJpS2x1N1ZITUxZQXRCTkxmQllSUGdCUTBXQ0RnPT0K",
+      "url": "https://github.com/data-sniper-llc/maps-scraper-pro/releases/download/v1.6.6-14/Maps.Scraper.Pro.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRXMW8vVGZ3aE53WW5mUXduRE9idTdseEY2c0sxRHBNNk9aNUJBT1ZnYlhZTmZNSjBkR0xnK2RtM0ZYUTJiMFlVdDVxWURGOHFSMnl3MitldXlmbVNRdkxUaDk5L3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjgzOTQ2CWZpbGU6TWFwcyBTY3JhcGVyIFByb18xLjYuNi0xM19hbWQ2NC5BcHBJbWFnZQp4ZFJOVWpQVU9sUmNJaEJKME8rMUdUZXQ4RUlWMDZHMXhoWEdRQkJMR21LNUl4ZVgzNnZlK0RoOTd3ZHBOM01MQmRHVVRkZVdhUFA5eGlCUUxCbFBCQT09Cg==",
-      "url": "https://github.com/data-sniper-llc/maps-scraper-pro/releases/download/v1.6.6-13/Maps.Scraper.Pro_1.6.6-13_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRXMW8vVGZ3aExZSVhFZld3UUZOK2x5UkpkRjM2aEhuRkY0NlJCeGRJZmhRWXNIQndFU01BTytSQ1BZT1V5UjEwYlhwZFAwelJsWXJ2Y1VQUVhjT2JMald3RllpWlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ2MDE1CWZpbGU6TWFwcyBTY3JhcGVyIFByb18xLjYuNi0xNF9hbWQ2NC5BcHBJbWFnZQpHd2hGWTRFZnFFZFA1SGplbEs4WFlHWTMraXZTbnZSeDlFTFRZZ1pyVDFZSm5DMkNJWWlXSDF1MHQ0T3U1dVVPb0VzUEZpSU43Mzg4dVk3K2FxbURBQT09Cg==",
+      "url": "https://github.com/data-sniper-llc/maps-scraper-pro/releases/download/v1.6.6-14/Maps.Scraper.Pro_1.6.6-14_amd64.AppImage"
     }
   }
 }
